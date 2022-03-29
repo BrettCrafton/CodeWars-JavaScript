@@ -3,7 +3,7 @@ Solutions to https://www.codewars.com/ (Code Wars) that I have completed.<br>
 
 If you have not completed these yourself, be aware these contain spoilers.
 
-Some solutions will be done with best practices in mind, some I will try to do in 1 line, and some I timed myself. All to best challenge myself.
+Some solutions will be done with best practices in mind, some I will try to do in 1 line, and some I timed myself (speed was most important factor). All to better challenge myself.
 
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/codeWars/Powers%20of%202/index.html">Power of 2</a>
