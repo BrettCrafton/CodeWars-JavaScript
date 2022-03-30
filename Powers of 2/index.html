@@ -22,13 +22,14 @@
 			<section>
 		<!-- CODE QUESTION START -->
 				<pre><p>
-				Complete the function that takes a non-negative integer n as input, 
-				and returns a list of all the powers of 2 with the exponent ranging 
-				from 0 to n ( inclusive ).</p><code class="language-javascript">		
-				Examples
-				n = 0  ==> [1]        # [2^0]
-				n = 1  ==> [1, 2]     # [2^0, 2^1]
-				n = 2  ==> [1, 2, 4]  # [2^0, 2^1, 2^2]
+	Complete the function that takes a non-negative integer n as input, 
+	and returns a list of all the powers of 2 with the exponent ranging 
+	from 0 to n ( inclusive ).
+	Examples
+</p><code class="language-javascript">		
+	n = 0  ==> [1]        # [2^0]
+	n = 1  ==> [1, 2]     # [2^0, 2^1]
+	n = 2  ==> [1, 2, 4]  # [2^0, 2^1, 2^2]
 				</code></pre>
 		<!-- CODE QUESTION END -->
 				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
@@ -37,13 +38,13 @@
 			<section>		
 		<!-- CODE SOLUTION START -->
 				<pre><code class="language-javascript">
-					function powersOfTwo(n){
-						let arr=[1]
-						for(let i=1; i<=n; i++){
-						arr.push(Math.pow(2,i))
-						}
-						return arr
-					}
+	function powersOfTwo(n){
+		let arr=[1]
+		for(let i=1; i<=n; i++){
+		arr.push(Math.pow(2,i))
+		}
+		return arr
+	}
 				</code></pre>
 		<!-- CODE SOLUTION END -->
 		<!-- CODEWARS LINK -->

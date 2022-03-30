@@ -17,17 +17,17 @@
 		<header>
 		</header>
 		<body>	
-			<h1>Opposites Attract</h1><!--TITLE ***********************  -->
+			<h1>Quarter of the year</h1><!--TITLE ***********************  -->
 			<h2>Question</h2>
 			<section>
 		<!-- CODE QUESTION START -->
 				<pre><p>
-	Timmy & Sarah think they are in love, but around where they live, they will only know once they pick a flower each. 
-	If one of the flowers has an even number of petals and the other has an odd number of petals it means they are in love.
-
-	Write a function that will take the number of petals of each flower and return true if they are in love and false if they aren't.
-				</p><code class="language-javascript">	
-	No examples	
+	Given a month as an integer from 1 to 12, return to which 
+	quarter of the year it belongs as an integer number.
+				</p><code class="language-javascript">
+	For example: month 2 (February), is part of the first 
+	quarter; month 6 (June), is part of the second quarter; 
+	and month 11 (November), is part of the fourth quarter.		
 				</code></pre>
 		<!-- CODE QUESTION END -->
 				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
@@ -36,13 +36,24 @@
 			<section>		
 		<!-- CODE SOLUTION START -->
 				<pre><code class="language-javascript">
-	function lovefunc(flower1, flower2){
-		return (flower1 + flower2) % 2 === 1
+	const quarterOf = (month) => {
+		if(month <= 3)  {
+			return 1
+		}
+		else if(month <= 6){
+			return 2
+		}
+			else if(month <= 9){
+			return 3
+		}
+			else if(month <= 12){
+			return 4
+		}
 		}
 				</code></pre>
 		<!-- CODE SOLUTION END -->
 		<!-- CODEWARS LINK -->
-				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/555086d53eac039a2a000083/train/javascript"><span>CodeWars</span></a></p>
+				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/javascript"><span>CodeWars</span></a></p>
 			</section>
 		<!-- Prism JS FILE -->
 			<script src="../assets/darkModePrism/prism.js"></script>

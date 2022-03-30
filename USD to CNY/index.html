@@ -17,17 +17,22 @@
 		<header>
 		</header>
 		<body>	
-			<h1>Opposites Attract</h1><!--TITLE ***********************  -->
+			<h1>USD => CNY</h1><!--TITLE ***********************  -->
 			<h2>Question</h2>
 			<section>
 		<!-- CODE QUESTION START -->
 				<pre><p>
-	Timmy & Sarah think they are in love, but around where they live, they will only know once they pick a flower each. 
-	If one of the flowers has an even number of petals and the other has an odd number of petals it means they are in love.
+	Create a function that converts US dollars (USD) to Chinese Yuan (CNY). 
+	The input is the amount of USD as an integer, and the output should 
+	be a string that states the amount of Yuan followed by 'Chinese Yuan'
 
-	Write a function that will take the number of petals of each flower and return true if they are in love and false if they aren't.
-				</p><code class="language-javascript">	
-	No examples	
+	The conversion rate you should use is 6.75 CNY for every 1 USD. All 
+	numbers should be represented as a string with 2 decimal places. 
+	(e.g. "21.00" NOT "21.0" or "21")
+				</p><code class="language-javascript">
+	Examples (Input -> Output)
+		* 15  -> '101.25 Chinese Yuan'
+		* 465 -> '3138.75 Chinese Yuan'	
 				</code></pre>
 		<!-- CODE QUESTION END -->
 				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
@@ -36,13 +41,13 @@
 			<section>		
 		<!-- CODE SOLUTION START -->
 				<pre><code class="language-javascript">
-	function lovefunc(flower1, flower2){
-		return (flower1 + flower2) % 2 === 1
+	function usdcny(usd) {
+		return (usd * 6.75).toFixed(2) + " Chinese Yuan"
 		}
 				</code></pre>
 		<!-- CODE SOLUTION END -->
 		<!-- CODEWARS LINK -->
-				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/555086d53eac039a2a000083/train/javascript"><span>CodeWars</span></a></p>
+				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/5977618080ef220766000022/train/javascript"><span>CodeWars</span></a></p>
 			</section>
 		<!-- Prism JS FILE -->
 			<script src="../assets/darkModePrism/prism.js"></script>

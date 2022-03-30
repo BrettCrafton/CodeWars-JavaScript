@@ -17,17 +17,24 @@
 		<header>
 		</header>
 		<body>	
-			<h1>Opposites Attract</h1><!--TITLE ***********************  -->
+			<h1>Can we divide it?</h1><!--TITLE ***********************  -->
 			<h2>Question</h2>
 			<section>
 		<!-- CODE QUESTION START -->
 				<pre><p>
-	Timmy & Sarah think they are in love, but around where they live, they will only know once they pick a flower each. 
-	If one of the flowers has an even number of petals and the other has an odd number of petals it means they are in love.
+	Your task is to create the functionisDivideBy (or is_divide_by) 
+	to check if an integer number is divisible by both integers a and b.
 
-	Write a function that will take the number of petals of each flower and return true if they are in love and false if they aren't.
-				</p><code class="language-javascript">	
-	No examples	
+	A few cases:
+				</p><code class="language-javascript">
+	(-12, 2, -6)  ->  true
+	(-12, 2, -5)  ->  false
+	
+	(45, 1, 6)    ->  false
+	(45, 5, 15)   ->  true
+	
+	(4, 1, 4)     ->  true
+	(15, -5, 3)   ->  true		
 				</code></pre>
 		<!-- CODE QUESTION END -->
 				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
@@ -36,13 +43,12 @@
 			<section>		
 		<!-- CODE SOLUTION START -->
 				<pre><code class="language-javascript">
-	function lovefunc(flower1, flower2){
-		return (flower1 + flower2) % 2 === 1
-		}
+	function isDivideBy(number, a, b) {
+		return number % a == 0 && number % b == 0}
 				</code></pre>
 		<!-- CODE SOLUTION END -->
 		<!-- CODEWARS LINK -->
-				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/555086d53eac039a2a000083/train/javascript"><span>CodeWars</span></a></p>
+				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/5a2b703dc5e2845c0900005a/train/javascript"><span>CodeWars</span></a></p>
 			</section>
 		<!-- Prism JS FILE -->
 			<script src="../assets/darkModePrism/prism.js"></script>

@@ -17,22 +17,25 @@
 		<header>
 		</header>
 		<body>	
-			<h1>Will you make it?</h1><!--TITLE ***********************  -->
+			<h1>Count of positives / sum of negatives</h1><!--TITLE ***********************  -->
 			<h2>Question</h2>
 			<section>
 		<!-- CODE QUESTION START -->
 				<pre><p>
-	You were camping with your friends far away from home, 
-	but when it's time to go back, you realize that your fuel 
-	is running out and the nearest pump is 50 miles away! You 
-	know that on average, your car runs on about 25 miles per 
-	gallon. There are 2 gallons left. Considering these factors, 
-	write a function that tells you if it is possible to get to 
-	the pump or not. Function should return true (1 in Prolog, 
-	NASM and COBOL) if it is possible and false (0 in Prolog, NASM 
-	and COBOL) if not. The input values are always positive.
+	Given an array of integers.
+
+	Return an array, where the first element is the 
+	count of positives numbers and the second element 
+	is sum of negative numbers. 0 is neither positive 
+	nor negative.
+
+	If the input is an empty array or is null, return 
+	an empty array.
+
+	Example
 				</p><code class="language-javascript">
-	No examples		
+	For input [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15], 
+	you should return [10, -65].	
 				</code></pre>
 		<!-- CODE QUESTION END -->
 				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
@@ -41,13 +44,27 @@
 			<section>		
 		<!-- CODE SOLUTION START -->
 				<pre><code class="language-javascript">
-	const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
-		return distanceToPump <= mpg *fuelLeft
-		};
+	function countPositivesSumNegatives(input) {
+		if(input == null || input.length < 1){
+			return []
+		}
+		else{
+		let countOfPostives = input.filter( x => x > 0)
+		let sumOfNegatives = input.filter( x => x < 0).reduce((a,b) => a + b, 0)
+		return [countOfPostives.length, sumOfNegatives];
+		}
+	}
+
+	OR
+
+	function countPositivesSumNegatives(input) {
+		let arrayAnswer = input && input.length ? [input.filter(x => x > 0).length, input.filter( y => y < 0).reduce((item1, item2) => item1 + item2,0) ]: []
+				return arrayAnswer;
+		}
 				</code></pre>
 		<!-- CODE SOLUTION END -->
 		<!-- CODEWARS LINK -->
-				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/5861d28f124b35723e00005e/train/javascript"><span>CodeWars</span></a></p>
+				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/576bb71bbbcf0951d5000044/train/javascript"><span>CodeWars</span></a></p>
 			</section>
 		<!-- Prism JS FILE -->
 			<script src="../assets/darkModePrism/prism.js"></script>
