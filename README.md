@@ -57,4 +57,5 @@ Some solutions will be done with best practices in mind, some I will try to do i
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Rock%20Paper%20Scissors/index.html">Rock Paper Scissors</a>
 
-Rock%20Paper%20Scissors
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Basic%20variable%20assignment/index.html">Basic variable assignment</a>
+
