@@ -43,4 +43,4 @@ Some solutions will be done with best practices in mind, some I will try to do i
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Hello%2C%20Name%20or%20World/index.html">Hello, Name or World!</a>
 
-
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Sum%20The%20Strings/index.html">Sum the Strings</a>
