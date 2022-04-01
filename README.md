@@ -46,3 +46,6 @@ Some solutions will be done with best practices in mind, some I will try to do i
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Sum%20The%20Strings/index.html">Sum the Strings</a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Is%20it%20Even/index.html">Is it Even?</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Reverse%20List%20Order/index.html">Reverse List Order</a>
+
