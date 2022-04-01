@@ -53,3 +53,4 @@ Some solutions will be done with best practices in mind, some I will try to do i
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Double%20Char/index.html">Double Char</a>
 
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Twice%20as%20old/index.html">Twice as old</a>
