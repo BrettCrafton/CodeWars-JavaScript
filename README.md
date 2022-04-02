@@ -45,23 +45,23 @@ Some solutions will be done with best practices in mind, some I will try to do i
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Sum%20The%20Strings/index.html">Sum the Strings</a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Is%20it%20Even/index.html">Is it Even?</a>
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Is%20it%20Even/index.html">Is it Even?</a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Reverse%20List%20Order/index.html">Reverse List Order</a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Filter%20out%20the%20geese/index.html">Filter out the geese</a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Double%20Char/index.html">Double Char</a>
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Double%20Char/index.html">Double Char</a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Twice%20as%20old/index.html">Twice as old</a>
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Twice%20as%20old/index.html">Twice as old</a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Rock%20Paper%20Scissors/index.html">Rock Paper Scissors</a>
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Rock%20Paper%20Scissors/index.html">Rock Paper Scissors</a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Basic%20variable%20assignment/index.html">Basic variable assignment</a>
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Basic%20variable%20assignment/index.html">Basic variable assignment</a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Area%20or%20Perimeter/index.html">Area or Perimeter</a>
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Area%20or%20Perimeter/index.html">Area or Perimeter</a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Do%20I%20get%20a%20bonus/index.html">Do I get a bonus?</a>
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Do%20I%20get%20a%20bonus/index.html">Do I get a bonus?</a>
 
 sentence smash
 
