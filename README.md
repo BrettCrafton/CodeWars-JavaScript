@@ -70,3 +70,5 @@ Array plus array
 You only need one - Beginner
 
 Sum the Strings
+
+Semi-Optional
