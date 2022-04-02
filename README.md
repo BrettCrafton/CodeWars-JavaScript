@@ -62,3 +62,9 @@ Some solutions will be done with best practices in mind, some I will try to do i
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Area%20or%20Perimeter/index.html">Area or Perimeter</a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/main/Do%20I%20get%20a%20bonus/index.html">Do I get a bonus?</a>
+
+sentence smash
+
+Array plus array
+
+
