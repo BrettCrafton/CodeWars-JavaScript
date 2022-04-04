@@ -72,3 +72,7 @@ You only need one - Beginner
 Sum the Strings
 
 Semi-Optional
+
+what is between
+
+Find Maximum and Minimum Values of a List
