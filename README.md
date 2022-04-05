@@ -82,3 +82,5 @@ hex to decimal
 Heads and Legs
 
 Find the Remainder
+
+Sum of Multiples
