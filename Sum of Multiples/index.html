@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="Your description goes here">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Code Wars - Brett Crafton</title>
+
+		<!-- external CSS links -->
+		<link rel="stylesheet" href="../assets/css/normalize.css">
+		<link rel="stylesheet" href="../assets/css/style.css">
+		<link rel="stylesheet" href="../assets/darkModePrism/prism.css">
+
+	</head>
+	<body>
+		<header>
+		</header>
+		<body>	
+			<h1>Sum of Multiples</h1><!--TITLE ***********************  -->
+			<h2>Question</h2>
+			<section>
+		<!-- CODE QUESTION START -->
+				<pre><p>
+	Your Job
+	Find the sum of all multiples of n below m
+	
+	Keep in Mind
+	n and m are natural numbers (positive integers)
+	m is excluded from the multiples
+	Examples
+				</p><code class="language-javascript">
+	sumMul(2, 9)   ==> 2 + 4 + 6 + 8 = 20
+	sumMul(3, 13)  ==> 3 + 6 + 9 + 12 = 30
+	sumMul(4, 123) ==> 4 + 8 + 12 + ... = 1860
+	sumMul(4, -7)  ==> "INVALID"
+				</code></pre>
+		<!-- CODE QUESTION END -->
+				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
+			</section>
+			<h2>My Solution</h2>
+			<section>		
+		<!-- CODE SOLUTION START -->
+				<pre><code class="language-javascript">
+	function sumMul(n,m){
+		let arr =[]
+		for(let i = 1;(i * n) < m; i++){
+			arr.push(n * i)
+		}
+		return n == 0 || m == 0 || m < n ? 'INVALID' : arr.reduce((x,y) => x+y,0)
+		}
+				</code></pre>
+		<!-- CODE SOLUTION END -->
+		<!-- CODEWARS LINK -->
+				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/57241e0f440cd279b5000829/train/javascript"><span>CodeWars</span></a></p>
+			</section>
+		<!-- Prism JS FILE -->
+			<script src="../assets/darkModePrism/prism.js"></script>
+	</body>
+</html>
