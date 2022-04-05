@@ -80,3 +80,5 @@ Find Maximum and Minimum Values of a List
 hex to decimal
 
 Heads and Legs
+
+Find the Remainder
