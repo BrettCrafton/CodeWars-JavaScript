@@ -76,3 +76,5 @@ Semi-Optional
 what is between
 
 Find Maximum and Minimum Values of a List
+
+hex to decimal
