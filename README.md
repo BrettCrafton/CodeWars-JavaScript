@@ -86,3 +86,5 @@ Find the Remainder
 Sum of Multiples
 
 Well of Ideas - Easy Version
+
+Vowel remover
