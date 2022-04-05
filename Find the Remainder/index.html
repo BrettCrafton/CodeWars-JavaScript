@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="Your description goes here">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Code Wars - Brett Crafton</title>
+
+		<!-- external CSS links -->
+		<link rel="stylesheet" href="../assets/css/normalize.css">
+		<link rel="stylesheet" href="../assets/css/style.css">
+		<link rel="stylesheet" href="../assets/darkModePrism/prism.css">
+
+	</head>
+	<body>
+		<header>
+		</header>
+		<body>	
+			<h1>Find the Remainder</h1><!--TITLE ***********************  -->
+			<h2>Question</h2>
+			<section>
+		<!-- CODE QUESTION START -->
+				<pre><p>
+	Write a function that accepts two integers and returns the 
+	remainder of dividing the larger value by the smaller value.
+
+	Division by zero should return NaN.
+	
+	Examples:
+				</p><code class="language-javascript">
+	n = 17
+	m = 5
+	result = 2 (remainder of `17 / 5`)
+	
+	n = 13
+	m = 72
+	result = 7 (remainder of `72 / 13`)
+	
+	n = 0
+	m = -1
+	result = 0 (remainder of `0 / -1`)
+	
+	n = 0
+	m = 1
+	result - division by zero 
+				</code></pre>
+		<!-- CODE QUESTION END -->
+				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
+			</section>
+			<h2>My Solution</h2>
+			<section>		
+		<!-- CODE SOLUTION START -->
+				<pre><code class="language-javascript">
+	function remainder(n, m){
+		if( n == 0 && n < m){
+			return NaN
+		}
+		else if( m == 0 && m < n){
+			return NaN
+		}
+		else{
+			return n > m ? n % m : m % n
+		}
+	}
+				</code></pre>
+		<!-- CODE SOLUTION END -->
+		<!-- CODEWARS LINK -->
+				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/524f5125ad9c12894e00003f/train/javascript"><span>CodeWars</span></a></p>
+			</section>
+		<!-- Prism JS FILE -->
+			<script src="../assets/darkModePrism/prism.js"></script>
+	</body>
+</html>
