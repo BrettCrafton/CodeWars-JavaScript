@@ -63,30 +63,39 @@ Some solutions will be done with best practices in mind, some I will try to do i
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Do%20I%20get%20a%20bonus/index.html">Do I get a bonus?</a>
 
-sentence smash
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Sentence%20Smash/index.html">Sentence Smash</a>
 
-Array plus array
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Array%20plus%20array/index.html">Array plus array</a>
 
-You only need one - Beginner
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Sentence%20Smash/index.html">Sentence Smash</a>
 
-Sum the Strings
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/You%20only%20need%20one%20-%20Beginner/index.html">You only need one - Beginner
+</a>
 
-Semi-Optional
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Sum%20The%20Strings/index.html">Sum The Strings</a>
 
-what is between
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Semi-Optional/index.html">Semi-Optional</a>
 
-Find Maximum and Minimum Values of a List
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/What%20is%20between/index.html">What is Between</a>
 
-hex to decimal
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Find%20Maximum%20and%20Minimum%20Values%20of%20a%20List/index.html">Find Maximum and Minimum Values of a List
+</a>
 
-Heads and Legs
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Hex%20to%20Decimal/index.html">Hex to Decimal</a>
 
-Find the Remainder
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Heads%20and%20Legs/index.html">Heads and Legs
+</a>
 
-Sum of Multiples
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Find%20the%20Remainder/index.html">Find the Remainder
+</a>
 
-Well of Ideas - Easy Version
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Sum%20of%20Multiples/index.html">Sum of Multiples
+</a>
 
-Vowel remover
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Well%20of%20Ideas%20-%20Easy%20Version/index.html">Well of Ideas - Easy Version
+</a>
 
-DNA to RNA Conversion
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Vowel%20remover/index.html">Vowel Remover
+</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/DNA%20to%20RNA%20Conversion/index.html">DNA to RNA Conversion</a>
