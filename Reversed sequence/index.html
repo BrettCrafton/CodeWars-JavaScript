@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="Your description goes here">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Code Wars - Brett Crafton</title>
+
+		<!-- external CSS links -->
+		<link rel="stylesheet" href="../assets/css/normalize.css">
+		<link rel="stylesheet" href="../assets/css/style.css">
+		<link rel="stylesheet" href="../assets/darkModePrism/prism.css">
+
+	</head>
+	<body>
+		<header>
+		</header>
+		<body>	
+			<h1>You only need one - Beginner</h1><!--TITLE ***********************  -->
+			<h2>Question</h2>
+			<section>
+		<!-- CODE QUESTION START -->
+				<pre><p>
+	Build a function that returns an array of integers from n to 1 where n>0.
+
+	Example :
+				</p><code class="language-javascript">
+	n=5 --> [5,4,3,2,1]
+				</code></pre>
+		<!-- CODE QUESTION END -->
+				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
+			</section>
+			<h2>My Solution</h2>
+			<section>		
+		<!-- CODE SOLUTION START -->
+				<pre><code class="language-javascript">
+	const reverseSeq = n => {
+		let arr = []
+		for(i = 1; i <= n; i++){
+			arr.unshift(i)
+		}
+		return arr
+		};
+				</code></pre>
+		<!-- CODE SOLUTION END -->
+		<!-- CODEWARS LINK -->
+				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/javascript"><span>CodeWars</span></a></p>
+			</section>
+		<!-- Prism JS FILE -->
+			<script src="../assets/darkModePrism/prism.js"></script>
+	</body>
+</html>
