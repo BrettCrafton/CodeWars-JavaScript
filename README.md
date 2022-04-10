@@ -99,3 +99,13 @@ Some solutions will be done with best practices in mind, some I will try to do i
 </a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/DNA%20to%20RNA%20Conversion/index.html">DNA to RNA Conversion</a>
+
+Sum Arrays
+
+Reversed sequence
+
+Is the date today
+
+Calculate average
+
+Calculate BMI
