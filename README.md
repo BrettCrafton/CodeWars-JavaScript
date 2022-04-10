@@ -109,3 +109,17 @@ Is the date today
 Calculate average
 
 Calculate BMI
+
+Is he gonna survive?
+
+Fake Binary
+
+MakeUpperCase
+
+Find the first non-consecutive number
+
+Function 3 - multiplying two numbers
+
+Merge two sorted arrays into one
+
+Count Odd Numbers below n
