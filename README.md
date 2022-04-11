@@ -123,3 +123,13 @@ Function 3 - multiplying two numbers
 Merge two sorted arrays into one
 
 Count Odd Numbers below n
+
+Reversed Words
+
+Get the mean of an array
+
+Beginner Series #2 Clock
+
+Invert values
+
+Jenny's secret message
