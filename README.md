@@ -133,3 +133,13 @@ Beginner Series #2 Clock
 Invert values
 
 Jenny's secret message
+
+Beginner - Lost Without a Map
+
+Convert a Boolean to a String
+
+A Needle in the Haystack
+
+Square(n) Sum
+
+Abbreviate a Two Word Name
