@@ -100,46 +100,46 @@ Some solutions will be done with best practices in mind, some I will try to do i
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/DNA%20to%20RNA%20Conversion/index.html">DNA to RNA Conversion</a>
 
-Sum Arrays
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Sum%20Arrays/index.html">Sum Arrays</a>
 
-Reversed sequence
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Reversed%20sequence/index.html">Reversed sequence</a>
 
-Is the date today
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Is%20the%20date%20today/index.html">Is the date today</a>
 
-Calculate average
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Calculate%20average/index.html">Calculate average</a>
 
-Calculate BMI
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Calculate%20BMI/index.html">Calculate BMI</a>
 
-Is he gonna survive?
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Is%20he%20gonna%20survive/index.html">Is he gonna survive?</a>
 
-Fake Binary
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Fake%20Binary/index.html">Fake Binary</a>
 
-MakeUpperCase
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/MakeUpperCase/index.html">MakeUpperCase</a>
 
-Find the first non-consecutive number
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Find%20the%20first%20non-consecutive%20number/index.html">Find the first non-consecutive number</a>
 
-Function 3 - multiplying two numbers
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Function%203%20-%20multiplying%20two%20numbers/index.html">Function 3 - multiplying two numbers</a>
 
-Merge two sorted arrays into one
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Merge%20two%20sorted%20arrays%20into%20one/index.html">Merge two sorted arrays into one</a>
 
-Count Odd Numbers below n
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Count%20Odd%20Numbers%20below%20n/index.html">Count Odd Numbers below n</a>
 
-Reversed Words
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Reversed%20Words/index.html">Reversed Words</a>
 
-Get the mean of an array
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Get%20the%20mean%20of%20an%20array/index.html">Get the mean of an array</a>
 
-Beginner Series #2 Clock
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Beginner%20Series%20%232%20Clock/index.html">Beginner Series #2 Clock</a>
 
-Invert values
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Invert%20values/index.html">Invert values</a>
 
-Jenny's secret message
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Jenny's%20secret%20message/index.html">Jenny's secret message</a>
 
-Beginner - Lost Without a Map
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Beginner%20-%20Lost%20Without%20a%20Map/index.html">Beginner - Lost Without a Map</a>
 
-Convert a Boolean to a String
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Convert%20a%20Boolean%20to%20a%20String/index.html">Convert a Boolean to a String</a>
 
-A Needle in the Haystack
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/A%20Needle%20in%20the%20Haystack/index.html">A Needle in the Haystack</a>
 
-Square(n) Sum
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Square(n)%20Sum/index.html">Square(n) Sum</a>
 
-Abbreviate a Two Word Name
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Abbreviate%20a%20Two%20Word%20Name/index.html">Abbreviate a Two Word Name</a>
