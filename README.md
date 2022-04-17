@@ -153,3 +153,13 @@ Basic Mathematical Operations
 Grasshopper - Summation
 
 Century From Year
+
+Function 1 - hello world
+
+Remove String Spaces
+
+Find the smallest integer in the array
+
+Remove First and Last Character
+
+String repeat
