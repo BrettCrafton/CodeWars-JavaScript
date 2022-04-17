@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="Your description goes here">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Code Wars - Brett Crafton</title>
+
+		<!-- external CSS links -->
+		<link rel="stylesheet" href="../assets/css/normalize.css">
+		<link rel="stylesheet" href="../assets/css/style.css">
+		<link rel="stylesheet" href="../assets/darkModePrism/prism.css">
+
+	</head>
+	<body>
+		<header>
+		</header>
+		<body>	
+			<h1>String repeat</h1><!--TITLE ***********************  -->
+			<h2>Question</h2>
+			<section>
+		<!-- CODE QUESTION START -->
+				<pre><p>
+	Write a function called repeatStr which repeats the given string string exactly n times.
+				</p><code class="language-javascript">
+	repeatStr(6, "I") // "IIIIII"
+	repeatStr(5, "Hello") // "HelloHelloHelloHelloHello"	
+				</code></pre>
+		<!-- CODE QUESTION END -->
+				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
+			</section>
+			<h2>My Solution</h2>
+			<section>		
+		<!-- CODE SOLUTION START -->
+				<pre><code class="language-javascript">
+	function repeatStr (n, s) {
+		let i = 0  
+		let str = ""
+		while(i < n){
+			str += s
+			i++
+		}
+		return str;
+		}
+				</code></pre>
+		<!-- CODE SOLUTION END -->
+		<!-- CODEWARS LINK -->
+				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript"><span>CodeWars</span></a></p>
+			</section>
+		<!-- Prism JS FILE -->
+			<script src="../assets/darkModePrism/prism.js"></script>
+	</body>
+</html>
