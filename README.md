@@ -1,5 +1,6 @@
 # Code War Solutions - Brett Crafton
-Solutions to https://www.codewars.com/ (Code Wars) that I have completed.<br>
+Solutions to <a target="_blank" rel="noopener noreferrer" href="www.codewars.com/r/muPVgA">CodeWars</a> that I have completed.<br>
+<a target="_blank" rel="noopener noreferrer" href="www.codewars.com/r/muPVgA">CodeWars</a>
 
 If you have not completed these yourself, be aware these contain spoilers.
 
