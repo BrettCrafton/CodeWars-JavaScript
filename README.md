@@ -146,7 +146,8 @@ Some solutions will be done with best practices in mind, some I will try to do i
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Is%20n%20divisible%20by%20x%20and%20y/index.html">Is n divisible by x and y?</a>
 
-Convert number to reversed array of digits
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Convert%20number%20to%20reversed%20array%20of%20digits/index.html">Convert number to reversed array of digits</a>
+
 
 Basic Mathematical Operations
 
