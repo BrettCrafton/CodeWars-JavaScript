@@ -148,19 +148,19 @@ Some solutions will be done with best practices in mind, some I will try to do i
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Convert%20number%20to%20reversed%20array%20of%20digits/index.html">Convert number to reversed array of digits</a>
 
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Basic%20Mathematical%20Operations/index.html">Basic Mathematical Operations</a>
 
-Basic Mathematical Operations
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Grasshopper%20-%20Summation/index.html">Grasshopper - Summation</a>
 
-Grasshopper - Summation
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Century%20From%20Year/index.html">Century From Year</a>
 
-Century From Year
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Function%201%20-%20hello%20world/index.html">Function 1 - hello world</a>
 
-Function 1 - hello world
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Remove%20String%20Spaces/index.html">Remove String Spaces</a>
 
-Remove String Spaces
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Find%20the%20smallest%20integer%20in%20the%20array/index.html">Find the smallest integer in the array</a>
 
-Find the smallest integer in the array
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Remove%20First%20and%20Last%20Character/index.html">Remove First and Last Character</a>
 
-Remove First and Last Character
+<a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/String%20repeat/index.html">String repeat</a>
 
-String repeat
