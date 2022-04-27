@@ -167,3 +167,5 @@ Some solutions will be done with best practices in mind, some I will try to do i
 Return Negative
 
 Reversed Strings
+
+next line
