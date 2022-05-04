@@ -171,4 +171,3 @@ Some solutions will be done with best practices in mind, some I will try to do i
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'/index.html">Convert boolean values to strings 'Yes' or 'No'</a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Opposite%20number/index.html">Opposite number</a>
-Opposite number
