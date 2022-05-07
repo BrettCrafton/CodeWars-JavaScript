@@ -172,4 +172,3 @@ Some solutions will be done with best practices in mind, some I will try to do i
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Opposite%20number/index.html">Opposite number</a>
 
-new line
