@@ -1,11 +1,63 @@
 # Code War Solutions - Brett Crafton
 Solutions to <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/r/muPVgA">CodeWars</a> that I have completed.<br>
 
-If you have not completed these yourself, be aware these contain spoilers.
+![Codewars](https://github.r2v.ch/codewars?user=bcrafton&name=true&top_languages=true&stroke=%23BB432C)
+
+***If you have not completed these yourself, be aware these contain spoilers.***
+
+Click a link at bottom to view  in following format:<br>
+<img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/codeWarsFormat.png?raw=true" alt="project example"/> 
+
+## My approach:
 
 Some solutions will be done with best practices in mind, some I will try to do in 1 line, and some I timed myself (speed was most important factor). All to better challenge myself.
 
-8 kyu
+Some challenges I have adopted the P.R.E.P. method. "Parameters, Return, Examples, Pseudo Code"
+
+## Links:
+Not an exhaustive list.
+
+<h3>4Kyu</h3>
+<details>
+	<summary>
+		<i>views solved 4 kyu</i>
+	</summary>
+
+
+</details>
+
+<h3>5Kyu</h3>
+<details>
+	<summary>
+		<i>views solved 5 kyu</i>
+	</summary>
+
+
+</details>
+
+<h3>6Kyu</h3>
+<details>
+	<summary>
+		<i>views solved 6 kyu</i>
+	</summary>
+
+
+</details>
+
+<h3>7Kyu</h3>
+<details>
+	<summary>
+		<i>views solved 7 kyu</i>
+	</summary>
+
+
+</details>
+
+<h3>8Kyu</h3>
+<details>
+  	<summary>
+		<i>views solved 8 kyu</i>
+	</summary>
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Powers%20of%202/index.html">Power of 2</a>
 
@@ -172,3 +224,4 @@ Some solutions will be done with best practices in mind, some I will try to do i
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Opposite%20number/index.html">Opposite number</a>
 
+</details>
