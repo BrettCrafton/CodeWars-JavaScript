@@ -20,7 +20,7 @@ Not an exhaustive list.
 <h3>4Kyu</h3>
 <details>
 	<summary>
-		<i>views solved 4 kyu</i>
+		<i>Click to view solved 4 kyu</i>
 	</summary>
 
 
@@ -29,7 +29,7 @@ Not an exhaustive list.
 <h3>5Kyu</h3>
 <details>
 	<summary>
-		<i>views solved 5 kyu</i>
+		<i>Click to view solved 5 kyu</i>
 	</summary>
 
 
@@ -38,7 +38,7 @@ Not an exhaustive list.
 <h3>6Kyu</h3>
 <details>
 	<summary>
-		<i>views solved 6 kyu</i>
+		<i>Click to view solved 6 kyu</i>
 	</summary>
 
 
@@ -47,7 +47,7 @@ Not an exhaustive list.
 <h3>7Kyu</h3>
 <details>
 	<summary>
-		<i>views solved 7 kyu</i>
+		<i>Click to view solved 7 kyu</i>
 	</summary>
 
 
@@ -56,7 +56,7 @@ Not an exhaustive list.
 <h3>8Kyu</h3>
 <details>
   	<summary>
-		<i>views solved 8 kyu</i>
+		<i>Click to view solved 8 kyu</i>
 	</summary>
 
 <a target="_blank" rel="noopener noreferrer" href="https://brettcrafton.github.io/CodeWars-JavaScript/Powers%20of%202/index.html">Power of 2</a>
