@@ -15,7 +15,7 @@ Some solutions will be done with best practices in mind, some I will try to do i
 Some challenges I have adopted the P.R.E.P. method. "Parameters, Return, Examples, Pseudo Code"
 
 ## Links:
-Not an exhaustive list.
+This is not an exhaustive list.
 
 <h3>4Kyu</h3>
 <details>
