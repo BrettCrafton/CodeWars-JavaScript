@@ -13,4 +13,8 @@ Prism.languages.javascript=Prism.languages.extend("clike",{"class-name":[Prism.l
 
 document.querySelector("section:last-of-type p").innerHTML = `<strong>First time?</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/r/muPVgA"><span>CodeWars</span></a>
 <strong>&emsp; Experienced? Try this challenge yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript"><span>Challenge</span></a>
+<<<<<<< HEAD
 `
+=======
+`
+>>>>>>> 0e614172debaa009c8d31330edbeb3b765b59c39

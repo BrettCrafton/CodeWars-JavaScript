@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -70,3 +71,77 @@
 			<script src="../assets/darkModePrism/prism.js"></script>
 	</body>
 </html>
+=======
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="Your description goes here">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Code Wars - Brett Crafton</title>
+
+		<!-- external CSS links -->
+		<link rel="stylesheet" href="../assets/css/normalize.css">
+		<link rel="stylesheet" href="../assets/css/style.css">
+		<link rel="stylesheet" href="../assets/darkModePrism/prism.css">
+
+	</head>
+	<body>
+		<header>
+		</header>
+		<body>	
+			<h1>Count of positives / sum of negatives</h1><!--TITLE ***********************  -->
+			<h2>Question</h2>
+			<section>
+		<!-- CODE QUESTION START -->
+				<pre><p>
+	Given an array of integers.
+
+	Return an array, where the first element is the 
+	count of positives numbers and the second element 
+	is sum of negative numbers. 0 is neither positive 
+	nor negative.
+
+	If the input is an empty array or is null, return 
+	an empty array.
+
+	Example
+				</p><code class="language-javascript">
+	For input [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15], 
+	you should return [10, -65].	
+				</code></pre>
+		<!-- CODE QUESTION END -->
+				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
+			</section>
+			<h2>My Solution</h2>
+			<section>		
+		<!-- CODE SOLUTION START -->
+				<pre><code class="language-javascript">
+	function countPositivesSumNegatives(input) {
+		if(input == null || input.length < 1){
+			return []
+		}
+		else{
+		let countOfPostives = input.filter( x => x > 0)
+		let sumOfNegatives = input.filter( x => x < 0).reduce((a,b) => a + b, 0)
+		return [countOfPostives.length, sumOfNegatives];
+		}
+	}
+
+	OR
+
+	function countPositivesSumNegatives(input) {
+		let arrayAnswer = input && input.length ? [input.filter(x => x > 0).length, input.filter( y => y < 0).reduce((item1, item2) => item1 + item2,0) ]: []
+				return arrayAnswer;
+		}
+				</code></pre>
+		<!-- CODE SOLUTION END -->
+		<!-- CODEWARS LINK -->
+				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/576bb71bbbcf0951d5000044/train/javascript"><span>CodeWars</span></a></p>
+			</section>
+		<!-- Prism JS FILE -->
+			<script src="../assets/darkModePrism/prism.js"></script>
+	</body>
+</html>
+>>>>>>> 0e614172debaa009c8d31330edbeb3b765b59c39

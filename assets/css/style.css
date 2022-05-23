@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Box Model Hack */
 * {
      box-sizing: border-box;
@@ -55,3 +56,62 @@ footer {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+=======
+/* Box Model Hack */
+* {
+     box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+     background-color: #27292a;
+}
+section{
+     margin: 0 5%;
+    overflow-wrap: normal;
+   
+}
+h1, h2, p strong{
+     color: white;
+}
+a{
+     color: lightskyblue;
+}
+h1{
+     text-align: center;
+}
+h2{
+     padding-left: 3%;
+}
+/******************************************
+/* LAYOUT
+/*******************************************/
+header {
+
+}
+
+footer {
+
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+>>>>>>> 0e614172debaa009c8d31330edbeb3b765b59c39

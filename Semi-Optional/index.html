@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -58,3 +59,65 @@
 			<script src="../assets/darkModePrism/prism.js"></script>
 	</body>
 </html>
+=======
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="Your description goes here">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Code Wars - Brett Crafton</title>
+
+		<!-- external CSS links -->
+		<link rel="stylesheet" href="../assets/css/normalize.css">
+		<link rel="stylesheet" href="../assets/css/style.css">
+		<link rel="stylesheet" href="../assets/darkModePrism/prism.css">
+
+	</head>
+	<body>
+		<header>
+		</header>
+		<body>	
+			<h1>Semi-Optional</h1><!--TITLE ***********************  -->
+			<h2>Question</h2>
+			<section>
+		<!-- CODE QUESTION START -->
+				<pre><p>
+	We have implemented a function wrap(value) that takes a value of 
+	arbitrary type and wraps it in a new JavaScript Object or Python 
+	Dict setting the 'value' key on the new Object or Dict to the 
+	passed-in value.
+	Unfortunately, the code is not working as designed. Please fix the 
+	code so that it behaves as specified.
+
+	So, for example, if we execute the following code:
+				</p><code class="language-javascript">
+	wrapper_obj = wrap("my_wrapped_string"); 
+	# wrapper_obj should be  {"value":"my_wrapped_string"}
+	
+	//We would then expect the following statement to be true:
+	
+	wrapper_obj["value"] == "my_wrapped_string"	
+				</code></pre>
+		<!-- CODE QUESTION END -->
+				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
+			</section>
+			<h2>My Solution</h2>
+			<section>		
+		<!-- CODE SOLUTION START -->
+				<pre><code class="language-javascript">
+	function wrap(value) {
+		this.value = value
+		return this
+		}
+				</code></pre>
+		<!-- CODE SOLUTION END -->
+		<!-- CODEWARS LINK -->
+				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/521cd52e790405a74800032c/train/javascript"><span>CodeWars</span></a></p>
+			</section>
+		<!-- Prism JS FILE -->
+			<script src="../assets/darkModePrism/prism.js"></script>
+	</body>
+</html>
+>>>>>>> 0e614172debaa009c8d31330edbeb3b765b59c39

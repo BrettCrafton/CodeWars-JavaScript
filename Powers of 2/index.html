@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -54,3 +55,61 @@
 			<script src="../assets/darkModePrism/prism.js"></script>
 	</body>
 </html>
+=======
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="Your description goes here">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Code Wars - Brett Crafton</title>
+
+		<!-- external CSS links -->
+		<link rel="stylesheet" href="../assets/css/normalize.css">
+		<link rel="stylesheet" href="../assets/css/style.css">
+		<link rel="stylesheet" href="../assets/darkModePrism/prism.css">
+
+	</head>
+	<body>
+		<header>
+		</header>
+		<body>
+			<h1>Powers of 2</h1>
+			<h2>Question</h2>
+			<section>
+		<!-- CODE QUESTION START -->
+				<pre><p>
+	Complete the function that takes a non-negative integer n as input, 
+	and returns a list of all the powers of 2 with the exponent ranging 
+	from 0 to n ( inclusive ).
+	Examples
+</p><code class="language-javascript">		
+	n = 0  ==> [1]        # [2^0]
+	n = 1  ==> [1, 2]     # [2^0, 2^1]
+	n = 2  ==> [1, 2, 4]  # [2^0, 2^1, 2^2]
+				</code></pre>
+		<!-- CODE QUESTION END -->
+				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
+			</section>
+			<h2>My Solution</h2>
+			<section>		
+		<!-- CODE SOLUTION START -->
+				<pre><code class="language-javascript">
+	function powersOfTwo(n){
+		let arr=[1]
+		for(let i=1; i<=n; i++){
+		arr.push(Math.pow(2,i))
+		}
+		return arr
+	}
+				</code></pre>
+		<!-- CODE SOLUTION END -->
+		<!-- CODEWARS LINK -->
+				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/57a083a57cb1f31db7000028/train/javascript"><span>CodeWars</span></a></p>
+			</section>
+		<!-- Prism JS FILE -->
+			<script src="../assets/darkModePrism/prism.js"></script>
+	</body>
+</html>
+>>>>>>> 0e614172debaa009c8d31330edbeb3b765b59c39
