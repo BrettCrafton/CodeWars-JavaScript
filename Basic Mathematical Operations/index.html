@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="Your description goes here">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Code Wars - Brett Crafton</title>
+
+		<!-- external CSS links -->
+		<link rel="stylesheet" href="../assets/css/normalize.css">
+		<link rel="stylesheet" href="../assets/css/style.css">
+		<link rel="stylesheet" href="../assets/darkModePrism/prism.css">
+
+	</head>
+	<body>
+		<header>
+		</header>
+		<body>	
+			<h1>Basic Mathematical Operations</h1><!--TITLE ***********************  -->
+			<h2>Question</h2>
+			<section>
+		<!-- CODE QUESTION START -->
+				<pre><p>
+	Your task is to create a function that does four basic mathematical operations.
+
+	The function should take three arguments - operation(string/char), value1(number), value2(number).
+	The function should return result of numbers after applying the chosen operation.
+	
+	Examples(Operator, value1, value2) --> output
+				</p><code class="language-javascript">
+	('+', 4, 7) --> 11
+	('-', 15, 18) --> -3
+	('*', 5, 5) --> 25
+	('/', 49, 7) --> 7	
+				</code></pre>
+		<!-- CODE QUESTION END -->
+				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
+			</section>
+			<h2>My Solution</h2>
+			<section>		
+		<!-- CODE SOLUTION START -->
+				<pre><code class="language-javascript">
+	function basicOp(operation, value1, value2)
+	{
+		if(operation == '-'){
+		return value1 - value2
+	}
+		else if(operation =='+'){
+		return value1 + value2
+		}
+		else if(operation =='*'){
+		return value1 * value2
+		}
+		else if(operation =='/'){
+		return value1 / value2
+		}
+	}
+				</code></pre>
+		<!-- CODE SOLUTION END -->
+		<!-- CODEWARS LINK -->
+				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/javascript"><span>CodeWars</span></a></p>
+			</section>
+		<!-- Prism JS FILE -->
+			<script src="../assets/darkModePrism/prism.js"></script>
+	</body>
+</html>

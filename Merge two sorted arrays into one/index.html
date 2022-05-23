@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="Your description goes here">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Code Wars - Brett Crafton</title>
+
+		<!-- external CSS links -->
+		<link rel="stylesheet" href="../assets/css/normalize.css">
+		<link rel="stylesheet" href="../assets/css/style.css">
+		<link rel="stylesheet" href="../assets/darkModePrism/prism.css">
+
+	</head>
+	<body>
+		<header>
+		</header>
+		<body>	
+			<h1>You only need one - Beginner</h1><!--TITLE ***********************  -->
+			<h2>Question</h2>
+			<section>
+		<!-- CODE QUESTION START -->
+				<pre><p>
+	You are given two sorted arrays that both only contain integers. 
+	Your task is to find a way to merge them into a single one, sorted 
+	in asc order. Complete the function mergeArrays(arr1, arr2), where 
+	arr1 and arr2 are the original sorted arrays.
+
+	You don't need to worry about validation, since arr1 and arr2 must 
+	be arrays with 0 or more Integers. If both arr1 and arr2 are empty, 
+	then just return an empty array.
+	
+	Note: arr1 and arr2 may be sorted in different orders. Also arr1 
+	and arr2 may have same integers. Remove duplicated in the 
+	returned result.
+	
+	Examples (input -> output)
+				</p><code class="language-javascript">
+	* [1, 2, 3, 4, 5], [6, 7, 8, 9, 10] -> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+				</code></pre>
+		<!-- CODE QUESTION END -->
+				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
+			</section>
+			<h2>My Solution</h2>
+			<section>		
+		<!-- CODE SOLUTION START -->
+				<pre><code class="language-javascript">
+	function mergeArrays(arr1, arr2) {
+		return [...new Set([...arr1,...arr2])].sort((a,b) => a-b)
+		}
+				</code></pre>
+		<!-- CODE SOLUTION END -->
+		<!-- CODEWARS LINK -->
+				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/5899642f6e1b25935d000161/train/javascript"><span>CodeWars</span></a></p>
+			</section>
+		<!-- Prism JS FILE -->
+			<script src="../assets/darkModePrism/prism.js"></script>
+	</body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="Your description goes here">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Code Wars - Brett Crafton</title>
+
+		<!-- external CSS links -->
+		<link rel="stylesheet" href="../assets/css/normalize.css">
+		<link rel="stylesheet" href="../assets/css/style.css">
+		<link rel="stylesheet" href="../assets/darkModePrism/prism.css">
+
+	</head>
+	<body>
+		<header>
+		</header>
+		<body>	
+			<h1>Filter out the geese</h1><!--TITLE ***********************  -->
+			<h2>Question</h2>
+			<section>
+		<!-- CODE QUESTION START -->
+				<pre><p>
+	Write a function that takes a list of strings as an argument 
+	and returns a filtered list containing the same elements but 
+	with the 'geese' removed.
+
+	The geese are any strings in the following array, which is 
+	pre-populated in your solution:
+
+	The elements in the returned array should be in the same order 
+	as in the initial array passed to your function, albeit with 
+	the 'geese' removed. Note that all of the strings will be in 
+	the same case as those provided, and some elements may be repeated.
+
+				</p><code class="language-javascript">
+	["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"]
+	For example, if this array were passed as an argument:
+
+	 ["Mallard", "Hook Bill", "African", "Crested", "Pilgrim", "Toulouse", "Blue Swedish"]
+	Your function would return the following array:
+
+	["Mallard", "Hook Bill", "Crested", "Blue Swedish"]	
+				</code></pre>
+		<!-- CODE QUESTION END -->
+				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
+			</section>
+			<h2>My Solution</h2>
+			<section>		
+		<!-- CODE SOLUTION START -->
+				<pre><code class="language-javascript">
+	function gooseFilter (birds) {
+		var geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
+		return birds.filter(x => !geese.includes(x))
+		};
+				</code></pre>
+		<!-- CODE SOLUTION END -->
+		<!-- CODEWARS LINK -->
+				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/train/javascript"><span>CodeWars</span></a></p>
+			</section>
+		<!-- Prism JS FILE -->
+			<script src="../assets/darkModePrism/prism.js"></script>
+	</body>
+</html>

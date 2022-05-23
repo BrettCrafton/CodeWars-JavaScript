@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="Your description goes here">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Code Wars - Brett Crafton</title>
+
+		<!-- external CSS links -->
+		<link rel="stylesheet" href="../assets/css/normalize.css">
+		<link rel="stylesheet" href="../assets/css/style.css">
+		<link rel="stylesheet" href="../assets/darkModePrism/prism.css">
+
+	</head>
+	<body>
+		<header>
+		</header>
+		<body>	
+			<h1>DNA to RNA Conversion</h1><!--TITLE ***********************  -->
+			<h2>Question</h2>
+			<section>
+		<!-- CODE QUESTION START -->
+				<pre><p>
+	Deoxyribonucleic acid, DNA is the primary information storage
+	 molecule in biological systems. It is composed of four nucleic 
+	 acid bases Guanine ('G'), Cytosine ('C'), Adenine ('A'), and 
+	 Thymine ('T').
+
+	Ribonucleic acid, RNA, is the primary messenger molecule in 
+	cells. RNA differs slightly from DNA its chemical structure 
+	and contains no Thymine. In RNA Thymine is replaced by another 
+	nucleic acid Uracil ('U').
+	
+	Create a function which translates a given DNA string into RNA.
+	
+	The input string can be of arbitrary length - in particular, 
+	it may be empty. All input is guaranteed to be valid, i.e. 
+	each input string will only ever consist of 'G', 'C', 'A' 
+	and/or 'T'.
+
+	For example:
+				</p><code class="language-javascript">
+	"GCAT"  =>  "GCAU"
+				</code></pre>
+		<!-- CODE QUESTION END -->
+				<p><strong>Solution by</strong> - <a target="_blank" rel="noopener noreferrer" href="https://github.com/BrettCrafton" target="_blank"><span class="background-black"><img height="30px" src="../assets/logo.svg" alt=""></span></a></p>
+			</section>
+			<h2>My Solution</h2>
+			<section>		
+		<!-- CODE SOLUTION START -->
+				<pre><code class="language-javascript">
+	function DNAtoRNA(dna) {
+		return dna.replace(/[T]/ig,'U')
+		}
+				</code></pre>
+		<!-- CODE SOLUTION END -->
+		<!-- CODEWARS LINK -->
+				<p><strong>Try it yourself</strong> - <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/kata/5556282156230d0e5e000089/train/javascript"><span>CodeWars</span></a></p>
+			</section>
+		<!-- Prism JS FILE -->
+			<script src="../assets/darkModePrism/prism.js"></script>
+	</body>
+</html>
