@@ -17,7 +17,7 @@ Some challenges I have adopted the P.R.E.P. method. "Parameters, Return, Example
 ## Links:
 These links are not an exhaustive list. The files above are.
 
-<h3>4Kyu</h3>
+<!-- <h3>4Kyu</h3>
 <details>
 	<summary>
 		<i>Click to view solved 4 kyu</i>
@@ -51,7 +51,7 @@ These links are not an exhaustive list. The files above are.
 	</summary>
 
 
-</details>
+</details> -->
 
 <h3>8Kyu</h3>
 <details>
