@@ -1,0 +1,2 @@
+var NOP = function() {
+}
