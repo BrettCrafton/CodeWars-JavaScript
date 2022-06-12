@@ -1,0 +1,1 @@
+alwaysEven=n=>n-n*n%2

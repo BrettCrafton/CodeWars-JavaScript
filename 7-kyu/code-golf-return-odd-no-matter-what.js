@@ -1,0 +1,1 @@
+alwaysOdd=n=>--n|1
