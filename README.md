@@ -16,7 +16,6 @@ Some challenges I have adopted the P.R.E.P. method. "Parameters, Return, Example
 
 ## Links:
 These links are not an exhaustive list. The files above are.
-
 <!-- <h3>4Kyu</h3>
 <details>
 	<summary>
