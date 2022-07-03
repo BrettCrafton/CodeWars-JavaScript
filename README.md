@@ -1,7 +1,10 @@
 # Code War Solutions - Brett Crafton
 Solutions to <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/r/muPVgA">CodeWars</a> that I have completed.<br>
 
+
 ![Codewars](https://github.r2v.ch/codewars?user=bcrafton&name=true&top_languages=true&stroke=%23BB432C)
+
+<img src="https://www.codewars.com/users/bcrafton/badges/large"/> 
 
 ***If you have not completed these yourself, be aware these contain spoilers.***
 
