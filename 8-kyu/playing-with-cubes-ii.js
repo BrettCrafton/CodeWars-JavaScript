@@ -1,0 +1,12 @@
+// This Cube function needs help
+// change the constructor so that it can take an integer for the side or no args
+
+function Cube(n) {
+  var side = n || 0;
+  this.getSide = function() {
+    return Math.abs(side)
+  };
+  this.setSide = function(n) {
+    return side = n
+  };
+};
